@@ -2,7 +2,7 @@
 
 The Marine Predator Group is an open science lab that believes in transparent, reproducible science.  To that aim:
 1. We keep lab notebooks to record what we did, learned, or produced each day. Can be physical notebooks, text files, Evernote, Jupyter notebooks, R Markdown notebooks, R blogdown, etc.
-1. We do our data analysis in GitHub repositories in the @marine-predator-group organization to facilitate collaboration and sharing within the group.
+1. We do our data analysis in GitHub repositories in the @marine-predators-group organization to facilitate collaboration and sharing within the group.
 1. We keep our raw data in the github repository related to the project, unless the data files are too large.
     1. We generally use a folder called "data" within the repository.  
     1. We store our raw data with metadata describing what’s in the file and what the columns mean
@@ -13,7 +13,7 @@ The Marine Predator Group is an open science lab that believes in transparent, r
 1. We use scripts to process data, make models, do analyses, etc.
 1. We publish git repositories through Zenodo upon publication of a manuscript.
 1. Collaborative manuscripts are written in Overleaf, google drive, or via one of the R packages that faciliate combined text and code (e.g. drake or blogdown).
-1. When matriculating, make sure all projects, code, papers, data, etc. are in the @marine-predator-group organization on GitHub and/or Google Drive.
+1. When matriculating, make sure all projects, code, papers, data, etc. are in the @marine-predators-group organization on GitHub and/or Google Drive.
 
 # For group discussion and some trial & error
 1. We generally make presentations in google slides so that other lab members can easily access useful graphics. However, CDB still uses Keynote. We should consider coalescing on an R-centric (or other open source method) for easy, reproducible slide generation and sharing.
