@@ -9,7 +9,7 @@
 - Stay connected to what excites you about your work: explore and stay curious!
 - Make time for your personal life, so you can be your best self at work
 - Don’t push yourself to the point of exhaustion - if you do, your work will never be your best.
-3. Collaborate & share (add collaborate & open-minded?)
+3. Collaborate & share
 - We are a team: our colleagues are our resources, and you are a resource for our community 
 - Don’t be afraid to ask for help, and offer help generously
 4. Normalize "I don't know yet"
@@ -18,7 +18,7 @@
 - Assume competence in our community
 5. Give credit, take responsibility
 - Celebrate success, in yourself and the community.
-- If you see a problem, be forthcoming and try t0 find a solution.
+- If you see a problem, be forthcoming and try to find a solution.
 - If you make a mistake, be honest and open.
 6. Facilitate a diverse environment
 - Be open to others perspectives, engage with them, and be willing to revise your own.
@@ -33,7 +33,7 @@
 - Be respectful and open-minded when others share
 - Be vocal in your support of diverse perspectives
 2. Be present
-- Show up at the office, and at lab events - be a part of our community
+- Show up at the office, and at group events - be a part of our community
 - Pay attention when others speak
 3. Make time for others; respect other's time
 - There’s always time to help others
@@ -66,11 +66,6 @@
 - Break projects into smaller pieces
 - Do science openly, transparently, and reproducibly
 3. Problems
-- To report an issue please contact Malin Pinsky. All communication will be treated as confidential.
-- If you aren't comfortable speaking to Malin: 
-    - contact Marsha Morin, DEENR grad student coordinator
-- If the DEENR grad student coordinator does not sound like the correct point of contact, Rutgers has many resources available to you, including:
-    - Counseling, Alcohol, & Other Drug Assistance Program & Psychiatric Services
-    - Student of Concern Pathway
-    - Student Conduct
-    - Violence Prevention and Victim Assistance
+- To report an issue please contact Camrin Braun. All communication will be treated as confidential.
+- If you aren't comfortable speaking to Camrin: 
+    - contact Samantha Scherer, SAFS undergrad student coordinator or Amy Fox, SAFS grad student coordinator
