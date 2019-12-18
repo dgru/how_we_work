@@ -1,3 +1,5 @@
-Pinsky Lab Policies
+This repo is the home for all things housekeeping at the Marine Predators Group.
 
-[Our Code of Conduct](https://docs.google.com/document/d/e/2PACX-1vSBKYZVmIAtyDjc7QiEbggeiVJmUmFw3P8Tf0HAB_VZuYMSzAQAR3CphP2bfrHWohW2oCDkDPFM7_oD/pub)
+Have a question or comment? File an issue!
+
+The content for these documents were primarily borrowed from and motivated by Steven Roberts, Holly Putnam, Malin Pinsky and Julia Stewart Lowndes.
