@@ -1,7 +1,7 @@
 
 ### Research Notebooks
 
-Keeping track of your work, including successes *and* failures, is a key part of doing science. To that end, MPG members are required to maintain a research notebook. You are free to choose exactly what works best for you, but we've compiled some best practices below based on our experiences. The landscape of tools for this is constantly changing, if you find a new or better tool that you think we should know about, provide your comments as an [issue(https://github.com/marine-predators-group/how-we-work/issues) or, for relatively minor changes (e.g. adding examples), feel free to directly edit this page.
+Keeping track of your work, including successes *and* failures, is a key part of doing science. To that end, MPG members are required to maintain a research notebook. You are free to choose exactly what works best for you, but we've compiled some best practices below based on our experiences. The landscape of tools for this is constantly changing, if you find a new or better tool that you think we should know about, provide your comments as an [issue](https://github.com/marine-predators-group/how-we-work/issues) or, for relatively minor changes (e.g. adding examples), feel free to directly edit this page.
 
 ## Key considerations for your notebook include:
 
